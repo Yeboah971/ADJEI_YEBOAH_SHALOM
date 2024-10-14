@@ -160,4 +160,5 @@ websocket-client==1.6.1
 Werkzeug==2.3.7
 widgetsnbextension==4.0.8
 wrapt==1.15.0
+xgboost==2.1.1
 zipp==3.17.0
